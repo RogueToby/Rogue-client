@@ -1,2 +1,4 @@
 # Rogue-client
-The new Hack client Made by yours truly. Remember to check at README.txt for more info!
+The new Hack client Made by yours truly.
+My youtube: https://www.youtube.com/channel/UC38gPFPVSOCgCO4BpqN_2NQ
+
